@@ -1,12 +1,13 @@
 # askKaren 
 
 Here, you can search for restaurants near you! But not just any restaurant - only the lowest rated restaurants near you. We know, as a Karen, you expect only the best for you and your family and because of this, we only show you the lowest rated places near you. View the low score, click on the link the view the restaurant’s website and easily click a button to speak with a manager.
+Link to deployed App:
+
+<https://rodolfod1.github.io/Project1-AskKaren/index.html>
 
 We built this app with you in mind.
 
-```bash
-<https://rodolfod1.github.io/Project1-AskKaren/>
-```
+
 
 ## Usage
 
